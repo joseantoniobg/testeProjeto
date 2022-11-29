@@ -12,7 +12,7 @@ export default function Home() {
 					<div className="order-1 max-w-md px-2 text-sm md:text-base lg:px-0">
 						<header className="mb-6">
 							<h2 className="text-4xl font-bold leading-none text-gray-400 select-none lg:text-6xl">
-								Página Indisponível.
+								MUDANÇA AQUI!
 							</h2>
 							<h3 className="text-xl font-light leading-normal lg:text-3xl md:text-3xl">
 								Ops.. Algo errado aconteceu!
